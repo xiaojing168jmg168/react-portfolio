@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cars-R-Us",
+        "image": "https://github.com/xiaojing168jmg168/cars-r-us/raw/main/utils/cars-r-us.jpg",
+        "github": "https://github.com/xiaojing168jmg168/cars-r-us",
+        "deploy": "https://floating-river-45182.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv heroku and bcrypt"
+    },
+    {
+        "id": 2,
+        "name": "Text Editor (PWA)",
+        "image": "https://github.com/xiaojing168jmg168/TextEditor/raw/main/assets/images/jate-4.png",
+        "github": "https://github.com/xiaojing168jmg168/TextEditor",
+        "deploy": "https://intense-woodland-05668.herokuapp.com/",
+        "topics": "Webpack+Workbox, Concurrently, IndexedDB, Express, NodeJS, Babel, Mini-Css-Extract-plugin"
+    },
+    {
+        "id": 3,
+        "name": "Text Editor (PWA)",
+        "image": "https://github.com/xiaojing168jmg168/TextEditor/raw/main/assets/images/jate-4.png",
+        "github": "https://github.com/xiaojing168jmg168/TextEditor",
+        "deploy": "https://intense-woodland-05668.herokuapp.com/",
+        "topics": "Webpack+Workbox, Concurrently, IndexedDB, Express, NodeJS, Babel, Mini-Css-Extract-plugin"
+    },
+    {
+        "id": 4,
+        "name": "Tech Blog MVC",
+        "image": "https://github.com/xiaojing168jmg168/tech-blog-mvc/raw/main/utils/screenshot-1.jpg",
+        "github": "https://github.com/xiaojing168jmg168/tech-blog-mvc",
+        "deploy": "https://tech-blog-xiaojing.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/xiaojing168jmg168/work-day-scheduler/raw/main/Develop/images/screen-shot.jpg",
+        "github": "https://github.com/xiaojing168jmg168/work-day-scheduler",
+        "deploy": "https://xiaojing168jmg168.github.io/work-day-scheduler/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    },
+    {
+        "id": 6,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/xiaojing168jmg168/weather-dashboard/raw/main/assets/images/weather-dashboard.jpg",
+        "github": "https://github.com/xiaojing168jmg168/weather-dashboard",
+        "deploy": "https://xiaojing168jmg168.github.io/weather-dashboard/",
+        "topics": "HTML, CSS, JavaScript, API, Git"
+    }
+]

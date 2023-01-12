@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.about{
+  margin: 20px;
+  text-align: center;
+}
+#curve{
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 2rem;
+  shape-outside: circle();
+  text-align: center;
+  max-height:300px;
+  border-radius: 300px;
+}
+#my-info{
+text-align: justify;
+font-size: 22px;
+}
