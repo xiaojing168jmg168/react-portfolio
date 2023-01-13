@@ -1,21 +1,19 @@
 import React from 'react'; 
 import ProjectCards from '../../components/Project'
-
-
-
+import portfolio from '../../portfolio.json'
 
 function Portfolio () {  
-
     return (
         <div className='p-5'>
             <div className='container'>
-                <div className='row'>
-               <ProjectCards />
+                <h2 className='top-title'>My Projects</h2>
+                <div id="card-data" className='row row-cols-4 g-3'>
+                    {portfolio.map((project) =>
+                         <ProjectCards key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy} topics={project.topics}/>
+                    )}
                 </div>
             </div>
-
         </div>
-    
     );
   }
 

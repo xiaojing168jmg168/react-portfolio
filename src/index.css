@@ -22,10 +22,59 @@ code {
   margin-right: 2rem;
   shape-outside: circle();
   text-align: center;
-  max-height:300px;
-  border-radius: 300px;
+  /* max-height:300px; */
+  border-radius: 50%;
 }
 #my-info{
 text-align: justify;
 font-size: 22px;
+}
+
+#card-data {
+  padding-top: 50px;
+  justify-content: space-around;
+  height: 100%;
+  display: flex;
+  overflow: auto;
+  flex-flow: row wrap;
+  padding: 10px;
+  align-content: flex-start;
+}
+.card {
+  background-color: rgb(165, 166, 164);
+  border-radius: 5px;
+  margin: 2rem;
+  position: relative;
+  box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+}
+.card .img-container {
+  height: 75%;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 10px;
+  background-color: var(--white);
+}
+.card .img-container img {
+  width: 100%;
+  padding: 25px;
+  margin-bottom:0px;
+  background-color: var(--white);
+}
+.card .content {
+  font-size: 18px;
+  background-color: var(--white);
+  color: var(--cadet-blue);
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-title{
+  margin-top: 10px;
+  color: var(--eerie-black);
+}
+.topics {
+  font-size: small;
+  font-style: italic;
+  color: var(--cultured);
+  background-color: var(--white)
 }
