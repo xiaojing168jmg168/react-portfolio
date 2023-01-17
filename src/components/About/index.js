@@ -5,7 +5,7 @@ function About(e) {
     return(
     <div className='p-5'>
       <div className='container'>
-        <div className='p-5 text-center border-bottom'>
+        <div className='p-5 text-center'>
             <h1>Xiaojing Deng</h1>
             <b>
                 A full stack web Developer
@@ -14,13 +14,14 @@ function About(e) {
             
             <div className='col-lg mx-auto'>
                 <p className='lead m-4' id='my-info'>
-                Hi, I'm Xiaojing Deng, Full Stack Web-Developer.
+                Hi, I'm Xiaojing Deng, a Full Stack Web-Developer.
 
-                I am currently taking part in a full Stack Web Development course at the Case Western Reserve University.<br></br>
-                Understanding technologies including JavaScript, Node Js, Git,is desirable
-                Can write CSS from scratch. Creates solid page layout and ReactJS components with vanilla CSS without relying on CSS libraries or frameworks.
-                Familiar with the latest CSS specifications like CSS Grid, CSS Flexbox, etc.
-                Working experience with automated testing of complex web applications.Independent and self-organized.
+                I am currently taking part in a full Stack Web Development course at Case Western Reserve University.<br></br>
+                Part of my developing coding skills includes an understanding of current technologies 
+                which includes JavaScript, NodeJs, PWA, ReactJS, MERN Stack Development, responsive web design and Git.
+                Also posess working experience with automated testing of complex web applications. Independent and Organized.
+                I am known as an innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. With each project,
+				my aim is to best engage my audience for an impactful user experience.
                 </p>
 
             </div>
