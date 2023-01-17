@@ -37,19 +37,19 @@ function Contact() {
     }
     return (
         <div className='container'>
-            <h2 className='mt-5'>Contact Me</h2>
+            <h2 className='mt-5 mb-5'>Contact Me</h2>
             <div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Name</label>
-                <input type="text" name="name" defaultValue={name} onBlur={handleChange} className="form-control" id="exampleFormControlInput1" placeholder="" />
+                <input type="text" name="name" defaultValue={name} onBlur={handleChange} className="form-control" id="exampleFormControlInput1" placeholder=""/>
             </div>
             <div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Email address</label>
-                <input type="email" name="email" defaultValue={email} onBlur={handleChange} className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
+                <input type="email" name="email" defaultValue={email} onBlur={handleChange} className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
             </div>
             <div className="mb-3">
                 <label for="exampleFormControlTextarea1" className="form-label">Message</label>
                 <br></br>
-                <textarea className="textarea" name="message" defaultValue={message} onBlur={handleChange} id="exampleFormControlTextarea1" rows="5" cols="60"></textarea>
+                <textarea className="textarea" name="message" defaultValue={message} onBlur={handleChange} id="exampleFormControlTextarea1" rows="5"></textarea>
             </div>
             {errorMessage && (
                 <div>

@@ -1,5 +1,6 @@
 function ProjectCards(props) {
     return (
+      <div className='col-lg-4'>
       <div className="card shadow-lg"> 
       <div className="img-container">
         <img src={props.image} alt={props.name}/>
@@ -14,6 +15,7 @@ function ProjectCards(props) {
             ({props.topics})
               </p>
       </div>
+    </div>
     </div>
     );
 }
