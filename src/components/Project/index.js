@@ -1,7 +1,7 @@
 function ProjectCards(props) {
     return (
       <div className='col-lg-4'>
-      <div className="card shadow-lg"> 
+      <div className="card shadow-lg h-75"> 
       <div className="img-container">
         <img src={props.image} alt={props.name}/>
       </div>

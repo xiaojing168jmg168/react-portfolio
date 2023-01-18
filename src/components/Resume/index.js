@@ -1,12 +1,31 @@
 function Resume() {
+
+    // Function will execute on click of button
+    const onButtonClick = () => {
+      // using JavaScript method to get PDF file
+      fetch('Xiaojing-FullStack-Resume.pdf').then(response => {
+          response.blob().then(blob => {
+              // Creating new object of PDF file
+              const fileURL = window.URL.createObjectURL(blob);
+              // Setting various property values
+              let alink = document.createElement('a');
+              alink.href = fileURL;
+              alink.download = 'Xiaojing-FullStack-Resume.pdf';
+              alink.click();
+          })
+      })
+  }
 	return (
 			<div className="container">
 				<h2 className='mt-5 mb-5'>My Resume</h2>
      
-          <div className="bottom-spacing">
-            <a href="" download>
+          <div className="bottom-spacing mb-5">
+
               <h4>Download my Resume</h4>
-            </a>
+              <button onClick={onButtonClick}>
+                    Download PDF
+                </button>
+        
           </div>
           <div>
             <h5>Front-End Proficiencies</h5>

@@ -5,7 +5,7 @@ function Navigation(props) {
         <div>
             <nav className="navbar bg-dark navbar-dark p-3 navbar-expand-lg">
                 <div className="container">
-                    <a href="#about" className="navbar-brand">Xiaojing Deng</a>
+                    <a href="#about" className="navbar-brand mb-0 h1">Xiaojing Deng</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-expanded="false"
                         aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
