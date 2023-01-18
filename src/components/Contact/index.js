@@ -56,7 +56,7 @@ function Contact() {
                     <p className="is-danger">{errorMessage}</p>
                 </div>
             )}
-            <div class="mb-3" >
+            <div class="mb-5" >
                 <button data-testid='button' class="btn btn-primary btn-lg " type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
 

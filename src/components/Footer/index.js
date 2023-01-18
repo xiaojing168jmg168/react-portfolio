@@ -1,6 +1,6 @@
 function Footer() {   
     return (
-    <footer className="p-4 border-top text-bg-light">
+    <footer className="p-4 border-top footer mb-0">
         <div className="container align-items-center justify-content-between d-flex">
             <p className="mb-0 text-muted">
                 &copy; 2023 xjd. All rights reserved
