@@ -12,7 +12,7 @@
 - [Questions](#questions)
 
 ## Application Deployment
-[https://tech-blog-xiaojing.herokuapp.com/](https://tech-blog-xiaojing.herokuapp.com/)
+[https://xiaojing-deng.herokuapp.com/](https://xiaojing-deng.herokuapp.com/)
 
 ## Application Screenshot
 
