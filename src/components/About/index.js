@@ -16,7 +16,7 @@ function About(e) {
                 <p className='lead m-4' id='my-info'>
                 Hi, I'm Xiaojing Deng, a Full Stack Web-Developer.
 
-                I am currently taking part in a full Stack Web Development course at Case Western Reserve University.<br></br>
+                I recently completed the Case Western Reserve University Full-Stack coding bootcamp.<br></br>
                 Part of my developing coding skills includes an understanding of current technologies 
                 which includes JavaScript, NodeJs, PWA, ReactJS, MERN Stack Development, responsive web design and Git.
                 Also posess working experience with automated testing of complex web applications. Independent and Organized.
