@@ -49,10 +49,10 @@
     },
     {
         "id": 7,
-        "name": "Ripples of Hope",
-        "image": "https://user-images.githubusercontent.com/110792983/217613115-96e2756a-0731-46d2-82cb-25232fad60ca.png",
-        "github": "https://github.com/kristyvanatta/Ripples-of-Hope",
-        "deploy": "https://ripples-of-hope-2.herokuapp.com/",
+        "name": "Give Hope Now",
+        "image": "https://user-images.githubusercontent.com/110792983/222557549-abdc077b-b142-4307-92f9-011957819b9a.jpg",
+        "github": "https://github.com/xiaojing168jmg168/give-hope-now",
+        "deploy": "https://give-hope-now.herokuapp.com/",
         "topics": "MERN stack, GraphQL, Heroku, JWT, Bootstrap/react-bootstrap, Apollo"
     }
 ]

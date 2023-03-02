@@ -10,7 +10,7 @@ function Resume() {
               // Setting various property values
               let alink = document.createElement('a');
               alink.href = fileURL;
-              alink.download = 'xiaojing-deng-resume.pdf';
+              alink.download = 'xiaojing-deng-resume2.pdf';
               alink.click();
           })
       })
