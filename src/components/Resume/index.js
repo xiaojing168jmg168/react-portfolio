@@ -3,7 +3,7 @@ function Resume() {
     // Function will execute on click of button
     const onButtonClick = () => {
       // using JavaScript method to get PDF file
-      fetch('xiaojing-deng-resume.pdf').then(response => {
+      fetch('xiaojing-deng-resume-3.pdf').then(response => {
           response.blob().then(blob => {
               // Creating new object of PDF file
               const fileURL = window.URL.createObjectURL(blob);
