@@ -49,10 +49,10 @@
     },
     {
         "id": 7,
-        "name": "Give Hope Now",
-        "image": "https://user-images.githubusercontent.com/110792983/222557549-abdc077b-b142-4307-92f9-011957819b9a.jpg",
-        "github": "https://github.com/xiaojing168jmg168/give-hope-now",
-        "deploy": "https://give-hope-now.herokuapp.com/",
-        "topics": "MERN stack, GraphQL, Heroku, JWT, Bootstrap/react-bootstrap, Apollo"
+        "name": "Book Search Engine",
+        "image": "https://github.com/xiaojing168jmg168/book-search-engine-MERN/raw/main/assets/images/book-search.png",
+        "github": "https://github.com/xiaojing168jmg168/book-search-engine-MERN",
+        "deploy": "https://fierce-headland-67337.herokuapp.com/",
+        "topics": "MERN stack, GraphQL, Heroku, JWT, Apollo Server, JavaScript"
     }
 ]
