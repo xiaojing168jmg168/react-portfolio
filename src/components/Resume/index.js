@@ -17,12 +17,13 @@ function Resume() {
   }
 	return (
 			<div className="container">
-				<h2 className='mt-5 mb-5'>My Resume</h2>
+				<h2 className='mt-3 mb-3'>My Resume</h2>
      
-          <div className="bottom-spacing mb-5">
+          <div className="bottom-spacing mb-3">
 
               <h4>Download my Resume</h4>
-              <button onClick={onButtonClick}>
+              <button className="mt-2 bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+               onClick={onButtonClick}>
                     Download PDF
                 </button>
         
