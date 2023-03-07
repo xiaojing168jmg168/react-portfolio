@@ -113,3 +113,9 @@ input, textarea {
  .container-small{
   max-width: 600px;
  }
+ .card-link{
+  color: blue;
+ }
+ .card-link:hover{
+  color:dimgray
+ }
