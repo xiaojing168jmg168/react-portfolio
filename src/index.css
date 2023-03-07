@@ -110,4 +110,6 @@ input, textarea {
     height: 50px;
   }
 
- 
+ .container-small{
+  max-width: 600px;
+ }

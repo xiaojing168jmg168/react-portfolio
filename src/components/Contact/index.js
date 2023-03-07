@@ -36,7 +36,7 @@ function Contact() {
         e.preventDefault();
     }
     return (
-        <div className='container'>
+        <div className='container container-small'>
             <h2 className='mt-5 mb-5'>Contact Me</h2>
             <div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Name</label>
