@@ -42,7 +42,7 @@ function Header() {
         setCurrentPage={setCurrentPage}
       />
       {/* Call the renderPage function passing in the currentPage */}
-      <main>
+      <main className='main-container'>
         <div>{renderPage(currentPage)}</div>
       </main>
     </div>

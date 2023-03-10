@@ -97,8 +97,9 @@ function Contact() {
     }
 
     return (
-        <div className='container container-small'>
-            <h2 className='mt-5 mb-5'>Contact Me</h2>
+        <div className='container'>
+        <div className='small-container'>
+            <h2 className='mt-5 mb-5 font-weight-bold'>Contact Me</h2>
            
             <form
                 action={FORM_ENDPOINT}
@@ -144,6 +145,7 @@ function Contact() {
                     </button>
                 </div>
             </form>
+        </div>
         </div>
     );
 }
