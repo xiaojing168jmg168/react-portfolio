@@ -1,58 +1,66 @@
 [
-    {
-        "id": 1,
-        "name": "Cars-R-Us",
-        "image": "https://github.com/xiaojing168jmg168/cars-r-us/raw/main/utils/cars-r-us.jpg",
-        "github": "https://github.com/xiaojing168jmg168/cars-r-us",
-        "deploy": "https://floating-river-45182.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv heroku and bcrypt"
-    },
-    {
-        "id": 2,
-        "name": "Text Editor (PWA)",
-        "image": "https://github.com/xiaojing168jmg168/TextEditor/raw/main/assets/images/jate-4.png",
-        "github": "https://github.com/xiaojing168jmg168/TextEditor",
-        "deploy": "https://intense-woodland-05668.herokuapp.com/",
-        "topics": "Webpack+Workbox, Concurrently, IndexedDB, Express, NodeJS, Babel, Mini-Css-Extract-plugin"
-    },
-    {
-        "id": 3,
-        "name": "Let It Show",
-        "image": "https://user-images.githubusercontent.com/110792983/212408120-91f48f17-1a38-4883-b0c1-9820684d51e4.png",
-        "github": "https://github.com/xiaojing168jmg168/Let-it-show",
-        "deploy": "https://xiaojing168jmg168.github.io/Let-it-show/",
-        "topics": "HTML, CSS, JavaScript, JSON, Jquery, Moments, API"
-    },
-    {
-        "id": 4,
-        "name": "Tech Blog MVC",
-        "image": "https://github.com/xiaojing168jmg168/tech-blog-mvc/raw/main/utils/screenshot-1.jpg",
-        "github": "https://github.com/xiaojing168jmg168/tech-blog-mvc",
-        "deploy": "https://tech-blog-xiaojing.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
-    },
-    {
-        "id": 5,
-        "name": "Work Day Scheduler",
-        "image": "https://github.com/xiaojing168jmg168/work-day-scheduler/raw/main/Develop/images/screen-shot.jpg",
-        "github": "https://github.com/xiaojing168jmg168/work-day-scheduler",
-        "deploy": "https://xiaojing168jmg168.github.io/work-day-scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
-    },
-    {
-        "id": 6,
-        "name": "Weather Dashboard",
-        "image": "https://github.com/xiaojing168jmg168/weather-dashboard/raw/main/assets/images/weather-dashboard.jpg",
-        "github": "https://github.com/xiaojing168jmg168/weather-dashboard",
-        "deploy": "https://xiaojing168jmg168.github.io/weather-dashboard/",
-        "topics": "HTML, CSS, JavaScript, API, Git"
-    },
-    {
-        "id": 7,
-        "name": "Book Search Engine",
-        "image": "https://github.com/xiaojing168jmg168/book-search-engine-MERN/raw/main/assets/images/book-search.png",
-        "github": "https://github.com/xiaojing168jmg168/book-search-engine-MERN",
-        "deploy": "https://fierce-headland-67337.herokuapp.com/",
-        "topics": "MERN stack, GraphQL, Heroku, JWT, Apollo Server, JavaScript"
-    }
+  {
+    "id": 1,
+    "name": "8-Red-Fish-creative",
+    "image": "https://user-images.githubusercontent.com/110792983/228347269-e57f6960-e277-403f-8554-073112b96170.png",
+    "github": "https://github.com/xiaojing168jmg168/8-red-fish-creative",
+    "deploy": "https://eight-red-fish-creative.onrender.com",
+    "topics": "React, Context, Node, Express, MongoDB, Mongoose"
+  },
+  {
+    "id": 2,
+    "name": "Cars-R-Us",
+    "image": "https://github.com/xiaojing168jmg168/cars-r-us/raw/main/utils/cars-r-us.jpg",
+    "github": "https://github.com/xiaojing168jmg168/cars-r-us",
+    "deploy": "https://floating-river-45182.herokuapp.com/",
+    "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv heroku and bcrypt"
+  },
+  {
+    "id": 3,
+    "name": "Text Editor (PWA)",
+    "image": "https://github.com/xiaojing168jmg168/TextEditor/raw/main/assets/images/jate-4.png",
+    "github": "https://github.com/xiaojing168jmg168/TextEditor",
+    "deploy": "https://intense-woodland-05668.herokuapp.com/",
+    "topics": "Webpack+Workbox, Concurrently, IndexedDB, Express, NodeJS, Babel, Mini-Css-Extract-plugin"
+  },
+  {
+    "id": 4,
+    "name": "Let It Show",
+    "image": "https://user-images.githubusercontent.com/110792983/212408120-91f48f17-1a38-4883-b0c1-9820684d51e4.png",
+    "github": "https://github.com/xiaojing168jmg168/Let-it-show",
+    "deploy": "https://xiaojing168jmg168.github.io/Let-it-show/",
+    "topics": "HTML, CSS, JavaScript, JSON, Jquery, Moments, API"
+  },
+  {
+    "id": 5,
+    "name": "Tech Blog MVC",
+    "image": "https://github.com/xiaojing168jmg168/tech-blog-mvc/raw/main/utils/screenshot-1.jpg",
+    "github": "https://github.com/xiaojing168jmg168/tech-blog-mvc",
+    "deploy": "https://tech-blog-xiaojing.herokuapp.com/",
+    "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+  },
+  {
+    "id": 6,
+    "name": "Work Day Scheduler",
+    "image": "https://github.com/xiaojing168jmg168/work-day-scheduler/raw/main/Develop/images/screen-shot.jpg",
+    "github": "https://github.com/xiaojing168jmg168/work-day-scheduler",
+    "deploy": "https://xiaojing168jmg168.github.io/work-day-scheduler/",
+    "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+  },
+  {
+    "id": 7,
+    "name": "Weather Dashboard",
+    "image": "https://github.com/xiaojing168jmg168/weather-dashboard/raw/main/assets/images/weather-dashboard.jpg",
+    "github": "https://github.com/xiaojing168jmg168/weather-dashboard",
+    "deploy": "https://xiaojing168jmg168.github.io/weather-dashboard/",
+    "topics": "HTML, CSS, JavaScript, API, Git"
+  },
+  {
+    "id": 8,
+    "name": "Book Search Engine",
+    "image": "https://github.com/xiaojing168jmg168/book-search-engine-MERN/raw/main/assets/images/book-search.png",
+    "github": "https://github.com/xiaojing168jmg168/book-search-engine-MERN",
+    "deploy": "https://fierce-headland-67337.herokuapp.com/",
+    "topics": "MERN stack, GraphQL, Heroku, JWT, Apollo Server, JavaScript"
+  }
 ]
