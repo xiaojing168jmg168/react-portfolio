@@ -28,6 +28,12 @@ function Resume() {
         </button>
       </div>
       <div>
+        <h5>Stack</h5>
+        <ol>
+          <li>MERN Stack</li>
+          <li>WordPress</li>
+        </ol>
+        <br></br>
         <h5>Front-End Proficiencies</h5>
         <ol>
           <li>HTML5</li>
@@ -48,6 +54,7 @@ function Resume() {
           <li>Model View Controller (MVC)</li>
           <li>REST</li>
           <li>Progressive Web Applications (PWA)</li>
+          <li>PHP</li>
         </ol>
         <br></br>
         <h5>Dev Tool Proficiencies</h5>
@@ -68,6 +75,12 @@ function Resume() {
           <li>MongoDB</li>
           <li>Mongoose</li>
         </ol>
+        <h5>Graphic Design</h5>
+        <ol>
+          <li>Photoshop</li>
+          <li>Figma</li>
+        </ol>
+        <br></br>
       </div>
     </div>
   );
