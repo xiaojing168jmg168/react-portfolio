@@ -75,6 +75,7 @@ function Resume() {
           <li>MongoDB</li>
           <li>Mongoose</li>
         </ol>
+        <br></br>
         <h5>Graphic Design</h5>
         <ol>
           <li>Photoshop</li>
